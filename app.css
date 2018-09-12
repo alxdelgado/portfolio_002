@@ -14,9 +14,9 @@
 }
 
 .aboutme-divblock {
-  min-height: 510px;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  min-height: 600px;
+  margin-top: 10vh;
+  margin-bottom: 5vh;
   padding-top: 50px;
 }
 
@@ -115,7 +115,7 @@
 
 
 .projects-section {
-  min-height: 400px;
+  min-height: 600px;
   background-color: rgba(143, 146, 58, .63);
 }
 
@@ -127,6 +127,7 @@
 
 .projects-divblock {
   min-height: 200px;
+  height: 100vh;
   margin-right: 250px;
   margin-left: 250px;
   margin-top: 100px;
