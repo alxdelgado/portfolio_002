@@ -139,6 +139,8 @@
 }
 
 
+/* <----- Projects Styling -----> */
+
 .projects-section {
   min-height: 600px;
   background-color: rgba(143, 146, 58, .63);
@@ -248,3 +250,5 @@
   font-size: 18px;
   line-height: 25px;
 }
+
+/* <----- Projects Styling -----> */
